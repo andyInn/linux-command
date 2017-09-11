@@ -1,0 +1,13 @@
+{
+    "font_size": 17.0,
+    "font_face": "Consolas",
+    "font_options": ["no_bold", "no_italic", "antialias"],
+    "ignored_packages":
+    [
+        "GoSublime",
+        "Markdown"
+    ],
+    "theme": "Soda Dark 3.sublime-theme",
+    "update_check": false,
+    "word_wrap": "auto"
+}
