@@ -1,0 +1,65 @@
+Hi Team,
+
+Here is the invitation for the customized workshop on Nov.18&19—Advance Java, please take this invitation as the confirmation for your enrollment.
+
+A．Pre-learning:
+
+Please find all the pre-learning materials below. You are required to complete following content:
+1、java 8 ： http://docs.oracle.com/javase/tutorial/
+（1）Lambda：
+http://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html
+http://docs.oracle.com/javase/tutorial/java/javaOO/methodreferences.html
+http://docs.oracle.com/javase/tutorial/java/javaOO/whentouse.html
+（2）Stream：
+http://docs.oracle.com/javase/tutorial/collections/streams/index.html
+2、rxjava：https://github.com/ReactiveX/RxJava/wiki
+入门：https://github.com/ReactiveX/RxJava/wiki/How-To-Use-RxJava
+Observable：http://reactivex.io/documentation/observable.html
+Operators：http://reactivex.io/documentation/operators.html
+Scheduler：http://reactivex.io/documentation/scheduler.html
+3、dubbo：http://dubbo.io
+7月31日宣布继续维护框架后，现在已经华丽变身了，全英文界面。
+我们课程时间有限，不会讲太多细节，大家学习一下首页，知道怎么创建RPC调用就好，其它不用看。
+4、mycat：http://mycat.io
+电子书：http://mycat.io/document/Mycat_V1.6.0.pdf   重点看一下第四章就好了
+5、TDDL属内部框架，只会介绍，不能对外做太多宣讲。
+
+B. Environment setting-up
+
+Please set up your environment according to the guidance below:
+1. JDK 1.8
+2. Eclipse or IDEA
+
+C. Course outline
+To get the whole picture of this workshop, please see the outline below:
+
+Java新技术与框架
+第一部分 Java新技术
+  Java函数式编码
+  Lambda表达式
+  集合与Stream
+  Map与Reduce
+  Java多线程新特性
+  使用Lock解决线程死锁
+  Java线程池及其应用
+  Fork/Join框架及其应用
+  Java内存管理
+  Java8内存模型
+  G1垃圾回收器
+  直接内存与Off-Heap Cache
+  教你解决内存泄漏问题（四个案例）
+第二部分 分布式Java框架
+  业务层
+  关于微服务
+  ReactiveX编程模型
+  Actor编码模型
+  RxJava与AKKA
+  Dubbo与HSF
+  数据层
+  读写分离与分库分表
+  Spring+MyBATIS实现读写分离
+  分库分表框架介绍TDDL
+  MyCat实现分库分表
+
+Thanks,
+Tech Learning & Development
