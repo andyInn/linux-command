@@ -1,0 +1,5 @@
+配置用户名和邮箱的命令
+
+1 git config --global user.name "youname"
+2 git config --global user.email "youeamil@email.com"
+最后可以通过 git config -l 这个命令查看已配置的用户名和邮箱信息
